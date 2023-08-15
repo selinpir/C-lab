@@ -1,0 +1,23 @@
+	int angle1, angle2, angle3;
+	printf("Insert 3 angles :\n");
+	scanf_s("%d %d %d", &angle1, &angle2, &angle3);
+	if (angle1 + angle2 + angle3 == 180)
+	{
+		if (angle1 == 60 && angle2 == 60 && angle3 == 60)
+		{
+			printf("it's an equilateral triangle.\n");
+		}
+		else if (angle1 == angle2 || angle2 == angle3 || angle1 == angle3)
+		{
+			printf("it's an isosceles triangle\n");
+		}
+		else
+		{
+			printf("it's a kind of an equilateral triangle.\n");
+		}
+	}
+	else
+	{
+		printf("the angles you enter cannot form a triangle.\n");
+	}
+	return 0;
