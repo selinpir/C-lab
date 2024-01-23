@@ -1,0 +1,7 @@
+﻿  harf_sayimi_diziler.c
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\harf_sayimi_diziler\harf_sayimi_diziler\harf_sayimi_diziler.c(12,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\harf_sayimi_diziler\harf_sayimi_diziler\harf_sayimi_diziler.c(12,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\harf_sayimi_diziler\harf_sayimi_diziler\harf_sayimi_diziler.c(12,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\harf_sayimi_diziler\harf_sayimi_diziler\harf_sayimi_diziler.c(12,11): message : this argument is used as a buffer size
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\harf_sayimi_diziler\harf_sayimi_diziler\harf_sayimi_diziler.c(27,9): warning C4101: 'j': unreferenced local variable
+  harf_sayimi_diziler.vcxproj -> C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\harf_sayimi_diziler\x64\Debug\harf_sayimi_diziler.exe
