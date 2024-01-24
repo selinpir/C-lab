@@ -1,0 +1,14 @@
+﻿  dizi_ornekler.c
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(10,9): message : consider using '%zd' in the format string
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(11,9): message : consider using '%zd' in the format string
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(12,9): message : consider using '%lld' in the format string
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(12,9): message : consider using '%Id' in the format string
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(12,9): message : consider using '%I64d' in the format string
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(16,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(16,9): message : consider using '%lld' in the format string
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(16,9): message : consider using '%Id' in the format string
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\dizi_ornekler\dizi_ornekler.c(16,9): message : consider using '%I64d' in the format string
+  dizi_ornekler.vcxproj -> C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\dizi_ornekler\x64\Debug\dizi_ornekler.exe

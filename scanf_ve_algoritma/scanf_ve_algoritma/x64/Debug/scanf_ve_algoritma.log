@@ -1,0 +1,3 @@
+﻿  scanf_ve_algoritma.c
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\scanf_ve_algoritma\scanf_ve_algoritma\scanf_ve_algoritma.c(8,14): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  scanf_ve_algoritma.vcxproj -> C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\scanf_ve_algoritma\x64\Debug\scanf_ve_algoritma.exe
