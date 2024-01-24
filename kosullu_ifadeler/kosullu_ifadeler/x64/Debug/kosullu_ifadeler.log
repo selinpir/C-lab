@@ -1,0 +1,7 @@
+﻿  kosullu_ifadeler.c
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\kosullu_ifadeler\kosullu_ifadeler\kosullu_ifadeler.c(29,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\kosullu_ifadeler\kosullu_ifadeler\kosullu_ifadeler.c(34,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\kosullu_ifadeler\kosullu_ifadeler\kosullu_ifadeler.c(38,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\kosullu_ifadeler\kosullu_ifadeler\kosullu_ifadeler.c(41,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\kosullu_ifadeler\kosullu_ifadeler\kosullu_ifadeler.c(44,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  kosullu_ifadeler.vcxproj -> C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\kosullu_ifadeler\x64\Debug\kosullu_ifadeler.exe
