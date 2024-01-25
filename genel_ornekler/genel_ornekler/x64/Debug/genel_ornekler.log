@@ -1,0 +1,2 @@
+﻿  genel_ornekler.c
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\genel_ornekler\genel_ornekler\genel_ornekler.c(65,2): error C2146: syntax error: missing ';' before identifier 'printf'
