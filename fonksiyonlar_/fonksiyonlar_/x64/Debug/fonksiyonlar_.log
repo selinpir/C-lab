@@ -1,0 +1,10 @@
+﻿  fonksiyonlar_.c
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\fonksiyonlar_\fonksiyonlar_.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\fonksiyonlar_\fonksiyonlar_.c(9,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\fonksiyonlar_\fonksiyonlar_.c(28,22): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\fonksiyonlar_\fonksiyonlar_.c(28,22): warning C4024: 'isimListesi': different types for formal and actual parameter 2
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\fonksiyonlar_\fonksiyonlar_.c(29,22): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\fonksiyonlar_\fonksiyonlar_.c(29,22): warning C4024: 'isimListesi': different types for formal and actual parameter 2
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\fonksiyonlar_\fonksiyonlar_.c(30,25): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\fonksiyonlar_\fonksiyonlar_.c(30,25): warning C4024: 'isimListesi': different types for formal and actual parameter 2
+  fonksiyonlar_.vcxproj -> C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\C-Exercises\fonksiyonlar_\x64\Debug\fonksiyonlar_.exe
