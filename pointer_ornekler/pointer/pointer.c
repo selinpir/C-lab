@@ -254,14 +254,14 @@ int main()
 		return(0);*/
 		
 		//12 
-		/*int x[5] = { 1, 2, 3, 4, 5 };
+		int x[5] = { 1, 2, 3, 4, 5 };
 		int* ptr;
 
 		ptr = &x[2];
 		printf("*ptr = %d \n", *ptr);   // 3
 		printf("*ptr+1 = %d \n", *ptr + 1); // 4
 		printf("*ptr-1 = %d", *ptr - 1);  // 2
-		return 0;*/
+		return 0;
 
 		//13
 
