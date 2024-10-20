@@ -1,0 +1,6 @@
+10	selin 	150
+20	asrın	-50
+30	cem	-130
+40	aslı	1290
+50	renk	12
+60	ali	0

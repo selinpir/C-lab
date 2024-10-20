@@ -1,0 +1,6 @@
+﻿  ogrenci_kayit_c.c
+D:\masaustu_yedek\GITHUB\C-Egzersizler\ogrenci_kayit_c\ogrenci_kayit_c\ogrenci_kayit_c.c(10,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\masaustu_yedek\GITHUB\C-Egzersizler\ogrenci_kayit_c\ogrenci_kayit_c\ogrenci_kayit_c.c(21,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\masaustu_yedek\GITHUB\C-Egzersizler\ogrenci_kayit_c\ogrenci_kayit_c\ogrenci_kayit_c.c(31,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\masaustu_yedek\GITHUB\C-Egzersizler\ogrenci_kayit_c\ogrenci_kayit_c\ogrenci_kayit_c.c(40,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ogrenci_kayit_c.vcxproj -> D:\masaustu_yedek\GITHUB\C-Egzersizler\ogrenci_kayit_c\x64\Debug\ogrenci_kayit_c.exe
