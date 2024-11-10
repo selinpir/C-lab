@@ -1,2 +1,1 @@
-# C-Exercises
-C YAPAMIYORUM :( DENEYSEL TAKILMALAR
+# C-Exercises and Projects
