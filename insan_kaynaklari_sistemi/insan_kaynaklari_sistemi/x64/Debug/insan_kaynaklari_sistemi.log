@@ -1,0 +1,8 @@
+﻿  insan_kaynaklari_sistemi.c
+D:\masaustu_yedek\GITHUB\C-lab\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi.c(18,2): warning C4013: 'showMenu' tanımsız; int döndüren extern olduğu varsayılıyor
+D:\masaustu_yedek\GITHUB\C-lab\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi.c(27,32): warning C4474: 'printf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+D:\masaustu_yedek\GITHUB\C-lab\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi.c(29,33): warning C4474: 'printf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+D:\masaustu_yedek\GITHUB\C-lab\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi.c(129,3): warning C4033: 'showMenu' bir değer döndürmelidir
+D:\masaustu_yedek\GITHUB\C-lab\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi.c(139,2): warning C4098: 'main': 'void' işlev değer döndürüyor
+D:\masaustu_yedek\GITHUB\C-lab\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi\insan_kaynaklari_sistemi.c(135,1): warning C4716: 'showMenu' : bir değer döndürmelidir
+  insan_kaynaklari_sistemi.vcxproj -> D:\masaustu_yedek\GITHUB\C-lab\insan_kaynaklari_sistemi\x64\Debug\insan_kaynaklari_sistemi.exe
