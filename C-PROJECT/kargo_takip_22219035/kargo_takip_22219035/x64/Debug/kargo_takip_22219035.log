@@ -1,0 +1,6 @@
+﻿  kargo_takip_22219035.c
+D:\masaustu_yedek\kargo_takip_22219035\kargo_takip_22219035\kargo_takip_22219035.c(185,25): warning C4477: 'sscanf_s' : '%99[^,]' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 3 değişen sayıda bağımsız değişkenin türü 'size_t'
+D:\masaustu_yedek\kargo_takip_22219035\kargo_takip_22219035\kargo_takip_22219035.c(185,25): warning C4477: 'sscanf_s' : '%99[^,]' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 5 değişen sayıda bağımsız değişkenin türü 'size_t'
+D:\masaustu_yedek\kargo_takip_22219035\kargo_takip_22219035\kargo_takip_22219035.c(185,25): warning C4477: 'sscanf_s' : '%199[^,]' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 7 değişen sayıda bağımsız değişkenin türü 'size_t'
+D:\masaustu_yedek\kargo_takip_22219035\kargo_takip_22219035\kargo_takip_22219035.c(185,25): warning C4477: 'sscanf_s' : '%19[^\n]' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 12 değişen sayıda bağımsız değişkenin türü 'size_t'
+  kargo_takip_22219035.vcxproj -> D:\masaustu_yedek\kargo_takip_22219035\x64\Debug\kargo_takip_22219035.exe
