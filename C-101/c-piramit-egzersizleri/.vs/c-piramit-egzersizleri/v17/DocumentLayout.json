@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masaustu_yedek\\GITHUB\\C-lab\\C-101\\c-piramit-egzersizleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9440C78-4D03-465B-BCCC-6E54BA390CA3}|c-piramit-egzersizleri\\c-piramit-egzersizleri.vcxproj|D:\\masaustu_yedek\\GITHUB\\C-lab\\C-101\\c-piramit-egzersizleri\\c-piramit-egzersizleri\\c-piramit-egzersizleri.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9440C78-4D03-465B-BCCC-6E54BA390CA3}|c-piramit-egzersizleri\\c-piramit-egzersizleri.vcxproj|solutionrelative:c-piramit-egzersizleri\\c-piramit-egzersizleri.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 377,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "c-piramit-egzersizleri.c",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\C-lab\\C-101\\c-piramit-egzersizleri\\c-piramit-egzersizleri\\c-piramit-egzersizleri.c",
+              "RelativeDocumentMoniker": "c-piramit-egzersizleri\\c-piramit-egzersizleri.c",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\C-lab\\C-101\\c-piramit-egzersizleri\\c-piramit-egzersizleri\\c-piramit-egzersizleri.c",
+              "RelativeToolTip": "c-piramit-egzersizleri\\c-piramit-egzersizleri.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-08T13:10:59.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

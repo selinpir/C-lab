@@ -1,0 +1,16 @@
+﻿  c-piramit-egzersizleri.c
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(18,9): error C2086: 'int i': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(18,12): error C2086: 'int j': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(29,9): error C2086: 'int i': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(29,12): error C2086: 'int j': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(45,9): error C2086: 'int i': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(45,12): error C2086: 'int j': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(55,9): error C2086: 'int i': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(55,12): error C2086: 'int j': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(65,16): error C2086: 'int i': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(86,9): error C2086: 'int i': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(86,12): error C2086: 'int j': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(86,15): error C2086: 'int satir': yeniden tanımlama
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(33,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(68,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\masaustu_yedek\GITHUB\C-lab\C-101\c-piramit-egzersizleri\c-piramit-egzersizleri\c-piramit-egzersizleri.c(89,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
