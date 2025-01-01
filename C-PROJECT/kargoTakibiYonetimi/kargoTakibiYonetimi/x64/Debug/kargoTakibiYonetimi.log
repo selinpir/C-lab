@@ -1,0 +1,3 @@
+﻿  kargoTakibiYonetimi.c
+D:\masaustu_yedek\kargoTakibiYonetimi\kargoTakibiYonetimi\kargoTakibiYonetimi.c(276,16): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'unsigned __int64'
+  kargoTakibiYonetimi.vcxproj -> D:\masaustu_yedek\kargoTakibiYonetimi\x64\Debug\kargoTakibiYonetimi.exe
